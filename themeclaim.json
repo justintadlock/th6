@@ -1,0 +1,18 @@
+{
+  "from": {
+    "Name": "Mythic",
+    "Description": "Mythic is a next-generation starter theme designed to help theme authors write elegant, intelligent, and modern code.",
+    "Uri": "https://themehybrid.com/themes/mythic",
+    "Author": "Justin Tadlock",
+    "AuthorEmail": "justintadlock@gmail.com",
+    "AuthorUri": "https://themehybrid.com"
+  },
+  "to": {
+    "Name": "TH6",
+    "Description": "Version 6 of ThemeHybrid.com.",
+    "Uri": "https://themehybrid.com",
+    "Author": "Justin Tadlock",
+    "AuthorEmail": "justintadlock@gmail.com",
+    "AuthorUri": "https://themehybrid.com"
+  }
+}

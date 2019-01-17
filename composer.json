@@ -1,0 +1,29 @@
+{
+	"name"        : "justintadlock/th6",
+	"type"        : "wordpress-theme",
+	"description" : "Version 6 of ThemeHybrid.com.",
+	"keywords"    : ["wordpress"],
+	"homepage"    : "https://themehybrid.com",
+	"license"     : "GPL-2.0-or-later",
+	"authors"     : [
+		{
+			"name"    : "Justin Tadlock",
+			"email"   : "justintadlock@gmail.com",
+			"homepage": "https://themehybrid.com"
+		}
+	],
+	"autoload"    : {
+		"psr-4" : {
+			"Th6\\" : "app/"
+		}
+	},
+	"require": {
+		"php" : ">=5.6",
+		"composer/installers" : "~1.0",
+		"justintadlock/hybrid-core" : "^5.0.0"
+	},
+	"require-dev": {
+		"wptrt/wpthemereview": "*",
+		"dealerdirect/phpcodesniffer-composer-installer": "0.4.4"
+	}
+}
